@@ -1,6 +1,6 @@
 create table people(
 id int primary key auto_increment,
-name varchar(20),
+name varchar(20), 
 description varchar(255)
 );
 
